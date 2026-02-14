@@ -1,0 +1,1 @@
+If you're reading this, the event log didn't do anything yet. Maybe it's broken?
