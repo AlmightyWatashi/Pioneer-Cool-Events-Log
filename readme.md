@@ -39,7 +39,7 @@ It's all in `modules/eventlog/init.lua`
 
 Line 11 - if you change "w" to "a" you can fill the log file like a real log instead of having it display just the last thing. But be careful, if you forget about it, it may bloat to whole kilobytes, maybe even megabytes.
 
-After line 19 you can find the Cool Events. Most of it is tested. It's mostly stuff from the [Pioneer Api Reference](https://codedoc.pioneerspacesim.net/#) that didn't require much effort like "constantly checking for hitpoints" or whatnot. I would love to expand on it one day, but you are also free to do that instead of me.
+After line 19 you can find the Cool Events. It's some events from the [Pioneer Api Reference](https://codedoc.pioneerspacesim.net/#) that didn't require much effort like scripting it to constantly check for hitpoints or something. I would love to expand on it one day, but you are also free to do that instead of me.
 
 ### Currently the events are:
 - `onGameStart` - Welcome back, pilot.
