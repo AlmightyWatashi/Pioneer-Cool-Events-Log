@@ -3,7 +3,7 @@ A small mod for Pioneer Space Sim that logs cool events to a text file.
 
 ## What?
 
-If you play [Pioneer Space Sim](https://pioneerspacesim.net/), when something Cool happens (you took off, you entered hyperspace, etc) this mod will write a notification to the file `event_log.txt` where you always read the last Cool Event that happened to you.
+If you play [Pioneer Space Sim](https://pioneerspacesim.net/), when something Cool happens (you took off, you entered hyperspace, etc) this mod will write a notification to the file `event_log.txt` where you can always read the last Cool Event that happened to you.
 
 ## Why?
 
