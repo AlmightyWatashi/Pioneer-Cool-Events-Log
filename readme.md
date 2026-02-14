@@ -7,9 +7,9 @@ If you play [Pioneer Space Sim](https://pioneerspacesim.net/), when something Co
 
 ## Why?
 
-This is a first step to expanding Pioneer to other screens, peripherals or computers. While I don't expect to be able to turn it into a full bridge sim where you get the system map on your mom's laptop, it's a good step towards stuff like trade info screen and who knows what else.
+This is a first step to expanding Pioneer to other screens, peripherals or computers. While I don't expect to be able to turn it into a full bridge sim where you get the system map on your grandma's laptop, it's a good step towards stuff like trade info screen and who knows what else.
 
-If you have a simpit or a similar microcontroller toy, you can always use this mod to make your lights can go red when you get hit, or your launch button can glow while you're docked, or something like that.
+If you have a simpit or a similar microcontroller toy, you can always use this mod to make your lights go red when you get hit, or your launch button can glow while you're docked, or something like that.
 
 If not, you can always have a script that shows the last notification on your second monitor, or you can feed it to a speech synthesizer, or a web page idk do whatever you want, I'm not your mother.
 
