@@ -33,7 +33,7 @@ Extract it so this readme ends up in the folder `eventlog`. Don't keep it zipped
 - `./showlog.bat` - windows startup for the python script. Run it, enlarge the font, make it full screen and you have a notification screen. Delete if you deleted the python file or are using linux.
 - `./modules/eventlog/init.lua` - the mod itself!
 
-## How do I fidget around the mod
+## How do I fidget around the mod?
 
 It's all in `modules/eventlog/init.lua`
 
